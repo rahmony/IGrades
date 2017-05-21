@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaHmOnY\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_94544775dff7c1487e4df5dfebda70b14e88b3db\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\io.realm\realm-android-library\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="41eaf91db90c8a58a03786acbbbe83c710491f08">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\pre-dexed\release\io.realm-realm-android-library-1.0.0_9d32ad8185cb73d572b20b1751203a860ddb35b6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaHmOnY\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\1.0.0\a3f198fe36d4071e5832d7aad8ca19798e87a64c\realm-annotations-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a3f198fe36d4071e5832d7aad8ca19798e87a64c">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-1.0.0_488fa690b2db4996e5524d42f9a767ba5891cb83\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaHmOnY\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\1.0.0\a3f198fe36d4071e5832d7aad8ca19798e87a64c\realm-annotations-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a3f198fe36d4071e5832d7aad8ca19798e87a64c">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\pre-dexed\release\realm-annotations-1.0.0_488fa690b2db4996e5524d42f9a767ba5891cb83.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\io.realm\realm-android-library\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="41eaf91db90c8a58a03786acbbbe83c710491f08">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.realm-realm-android-library-1.0.0_9d32ad8185cb73d572b20b1751203a860ddb35b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaHmOnY\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_94544775dff7c1487e4df5dfebda70b14e88b3db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="098b7260ad9950a1c9df0a5065cd36457da167c9">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7a0519be072af043f6847d675993da5bc6a18f7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_f43983953d360b88dc3022e49bc0770181a4a5af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_b76037e611c80a96e28eda64571bfcc43695edd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\pre-dexed\release\com.getkeepsafe.relinker-relinker-1.2.1_65d2c448eb78794d97f47619efb8d52091fd969c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getkeepsafe.relinker-relinker-1.2.1_65d2c448eb78794d97f47619efb8d52091fd969c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_b76037e611c80a96e28eda64571bfcc43695edd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_db899104ad23c7dda77755fdd6b71bbab571e7cb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_35c4a555a584c2c2da606dd378e6b048ad56da78\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_35c4a555a584c2c2da606dd378e6b048ad56da78.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_f43983953d360b88dc3022e49bc0770181a4a5af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3e65f9b51f455e2467781a93766b363c97fa0ee1">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_711b5b37423cc6ebe126353a7088e013e6028d70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_7430a70d63ec6f957cad6dd95eef74fc7b1b3ba4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_7430a70d63ec6f957cad6dd95eef74fc7b1b3ba4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\RaHmOnY\AndroidStudioProjects\IGrades\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_db899104ad23c7dda77755fdd6b71bbab571e7cb\classes.dex" />
+    </item>
+
+</items>

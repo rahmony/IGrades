@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_grade.xml",
+        "source": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\src\\main\\res\\menu\\menu_grade.xml"
+    },
+    {
+        "merged": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_new_course.xml",
+        "source": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\src\\main\\res\\menu\\menu_new_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_course.xml",
+        "source": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\src\\main\\res\\menu\\menu_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_new_grade.xml",
+        "source": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\src\\main\\res\\menu\\menu_new_grade.xml"
+    }
+]

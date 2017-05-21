@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_delete.png",
+        "source": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_plus_one.png",
+        "source": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_plus_one.png"
+    },
+    {
+        "merged": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_save.png",
+        "source": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\IGrades\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

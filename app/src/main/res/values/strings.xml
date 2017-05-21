@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">iGrades</string>
+    <string name="course_title">Courses</string>
+    <string name="course_add_new_course">Tap +1 to add a new course.</string>
+    <string name="new_course_title">New Course</string>
+    <string name="new_course_name">Course Title</string>
+    <string name="grade_add_new_grade">Tap +1 to add a new grade.</string>
+    <string name="grade_title">Grades</string>
+    <string name="new_grade_title">New Grade</string>
+    <string name="new_grade_name">Grade Title</string>
+    <string name="new_grade_earned_grade">Earned Grade</string>
+    <string name="new_grade_earned_grade_hint">The Grade you got</string>
+    <string name="new_grade_total_grade">Total Grade</string>
+    <string name="new_grade_total_grade_hint">The Total Grade</string>
+    <string name="new_grade_select_grade_title">Select Grade Title</string>
+    <string name="of">Out OF</string>
+    <string name="earned_val">0</string>
+    <string name="total_val">0</string>
+    <string name="grade_type">Grade Type</string>
+
+    <string-array name="gradesType">
+        <item>Midterm</item>
+        <item>Quiz</item>
+        <item>Assignment</item>
+        <item>Project</item>
+        <item>Lab</item>
+        <item>Class Involvement</item>
+        <item>Bonus</item>
+        <item>Final Exam</item>
+    </string-array>
+
+
+</resources>
